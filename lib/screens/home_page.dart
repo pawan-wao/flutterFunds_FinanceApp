@@ -30,7 +30,6 @@ class HomePage extends StatelessWidget {
         ),
       ),
       home: Scaffold(
-
         body: SafeArea(
           // top level column
           child: Align(
@@ -41,13 +40,12 @@ class HomePage extends StatelessWidget {
                   SizedBox(
                     height: 5,
                   ),
+                  //top title
                   Text(
                     "Buy a dream house",
                     style: TextStyle(fontSize: 27, fontWeight: FontWeight.bold),
                   ),
-                  SizedBox(
-                    height: 35,
-                  ),
+                  SizedBox(height: 35,),
                   // home progress indicator
                   CircularPercentIndicator(
                     radius: 120.0,
@@ -82,9 +80,7 @@ class HomePage extends StatelessWidget {
                       ],
                     ),
                   ),
-                  SizedBox(
-                    height: 15,
-                  ),
+                  SizedBox(height: 15,),
 
                   // smooth page indicator/dots indicator
                   AnimatedSmoothIndicator(
