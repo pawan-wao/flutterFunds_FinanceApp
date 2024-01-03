@@ -9,6 +9,4 @@ class AppColors {
   static const Color P1blue= Color(0XFF256CEA);
   static const Color P2yellow = Color(0XFFFAC91E);
   static const Color P3green = Color(0XFF27DCC2);
-
-// Add more colors as needed
 }

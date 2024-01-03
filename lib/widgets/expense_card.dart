@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:oneinvest/app_colors.dart';
 
 // creating list of multiple custom expanse cards
 
@@ -62,9 +61,9 @@ final List<String>  titleList = [
 
 //expenditure text
 final List<String>  expenditureList = [
-  "\$-250",
- "\$-150",
-  "\$-100"
+  "\$250",
+ "\$150",
+  "\$100"
 ];
 
 //icons

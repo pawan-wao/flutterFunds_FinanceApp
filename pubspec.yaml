@@ -40,6 +40,10 @@ dependencies:
   vertical_percent_indicator: ^0.0.1
   toast: ^0.3.0
   google_fonts: ^6.1.0
+  firebase_auth: ^4.15.3
+  firebase_core: ^2.24.2
+  firebase_database: ^10.3.8
+  carousel_slider: ^4.2.1
 
 dev_dependencies:
   flutter_test:
