@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1sqx1GlaFrZufzgV1D3ie5c4Whne-2pEU/view?usp=shari
 1. Clone the repository
 
 ```bash
-git clone https://github.com/pawan-wao/FlutFlix_YourMovieCompanion.git
+git clone https://github.com/pawan-wao/DhiWise_FlutterTask/tree/master
 ```
 2. Clone the repository
 Launch Android Studio.\
