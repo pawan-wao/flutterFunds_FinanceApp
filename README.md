@@ -28,14 +28,14 @@ This task is for the DhiWise Junior Developer position to create a flutter aplli
 ## 📥 Apps's video preview:
 Donwload video:
 (Mediafire): https://www.mediafire.com/file/ar4wv7we4m3ty4m/Travel_app_demo_%25282%2529.mp4/file
-(Google drive) https://drive.google.com/file/d/1dm1R5v-HJqea-JPCbvXmzRhv0GHbHqaw/view?usp=sharing \
+(Google drive) https://drive.google.com/file/d/1dm1R5v-HJqea-JPCbvXmzRhv0GHbHqaw/view?usp=sharing 
 
 
 ## 📥 Download and install app:
 
 Google Drive Link (Size: 20 MB):
 (MediaFire): https://www.mediafire.com/file/f9s1am3wtvm3fvx/DWTask_pawansingh.apk/file
-(Google Derive): https://drive.google.com/file/d/1sqx1GlaFrZufzgV1D3ie5c4Whne-2pEU/view?usp=sharing
+(Google Drive): https://drive.google.com/file/d/1sqx1GlaFrZufzgV1D3ie5c4Whne-2pEU/view?usp=sharing
 
 ## Installation
 
