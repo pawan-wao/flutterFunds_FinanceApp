@@ -34,8 +34,8 @@ Donwload video:
 ## 📥 Download and install app:
 
 Google Drive Link (Size: 20 MB):
-Media fire -https://www.mediafire.com/file/f9s1am3wtvm3fvx/DWTask_pawansingh.apk/file
-Download https://drive.google.com/file/d/1sqx1GlaFrZufzgV1D3ie5c4Whne-2pEU/view?usp=sharing
+(MediaFire): https://www.mediafire.com/file/f9s1am3wtvm3fvx/DWTask_pawansingh.apk/file
+(Google Derive): https://drive.google.com/file/d/1sqx1GlaFrZufzgV1D3ie5c4Whne-2pEU/view?usp=sharing
 
 ## Installation
 
