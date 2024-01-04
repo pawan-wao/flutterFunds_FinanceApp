@@ -7,7 +7,7 @@ This task is for the DhiWise Junior Developer position to create a flutter aplli
 - Goal Progress Visualization
 - Goal Details
 - Contribution History
-- 
+  
 ## Tech Stack
 
 **Flutter:** Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
