@@ -9,7 +9,7 @@ class ExpenseReport extends StatelessWidget {
   Widget build(BuildContext context) {
     return   MaterialApp(
       debugShowCheckedModeBanner: false,
-      //setting text theme for this screen
+      //setting text theme for this Screen
       theme: ThemeData(
         scaffoldBackgroundColor: AppColors.primaryColor,
         textTheme: GoogleFonts.poppinsTextTheme().copyWith(
