@@ -1,7 +1,7 @@
 📰📱 Hey DhiWise!
 
 ##  About this task?
-This task is for the DhiWise Junior Developer position to create a flutter apllication with Financial Goal Detail Screen having Firebase Firestore Integration
+This task is for the DhiWise Junior flutter Developer position to create a flutter apllication with Financial Goal Detail Screen having Firebase Firestore Integration
 
 # App's Main Features
 - Goal Progress Visualization
