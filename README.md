@@ -18,12 +18,12 @@ This task is for the DhiWise Junior Developer position to create a flutter aplli
 
 
 ## 📥 Apps's video preview:
-https://drive.google.com/file/d/1dm1R5v-HJqea-JPCbvXmzRhv0GHbHqaw/view?usp=drive_link
+Donwload video: https://drive.google.com/file/d/1dm1R5v-HJqea-JPCbvXmzRhv0GHbHqaw/view?usp=sharing
 
 ## 📥 Download and install app:
 
 Google Drive Link (Size: 20 MB): 
-https://drive.google.com/file/d/1sqx1GlaFrZufzgV1D3ie5c4Whne-2pEU/view?usp=sharing
+Download https://drive.google.com/file/d/1sqx1GlaFrZufzgV1D3ie5c4Whne-2pEU/view?usp=sharing
 
 ## Installation
 
