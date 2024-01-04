@@ -16,6 +16,14 @@ This task is for the DhiWise Junior Developer position to create a flutter aplli
 
 **Android Studio:** The official IDE for Android development.
 
+## 📥 Apps's Images:
+![5](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/958e537a-24d5-4dd9-9592-2f24e042955c)
+![3](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/9124c039-4437-4335-be2c-f92cf1ae6b0c)
+![2](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/84716e07-0626-45dd-b0c3-de97e461d8d0)
+![1](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/6081b052-5002-40cf-98d0-2365c12bb225)
+![4](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/9c233de7-b3ea-48ea-b2c5-da53953e1fb3)
+
+
 
 ## 📥 Apps's video preview:
 Donwload video: (Google drive) https://drive.google.com/file/d/1dm1R5v-HJqea-JPCbvXmzRhv0GHbHqaw/view?usp=sharing \
