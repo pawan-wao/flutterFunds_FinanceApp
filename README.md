@@ -44,4 +44,4 @@ Click on the Run button in Android Studio.
 
 ## Feedback
 If you have any feedback, please reach out to me at waonicegood@gmail.com
-Join the NewsPulse Flutter community and stay updated with the latest news effortlessly using this intuitive Flutter app! 📰📱
+
