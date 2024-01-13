@@ -43,7 +43,7 @@ Google Drive Link (Size: 20 MB):
 1. Clone the repository
 
 ```bash
-git clone https://github.com/pawan-wao/DhiWise_FlutterTask/tree/master
+git clone https://github.com/pawan-wao/flutterFunds_FinanceApp
 ```
 2. Clone the repository
 Launch Android Studio.\
