@@ -1,4 +1,4 @@
-📰📱 Hey DhiWise!
+📰📱 Hey!
 
 ##  About flutterFunds
 
