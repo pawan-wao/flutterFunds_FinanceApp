@@ -23,8 +23,6 @@
 ![1](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/6081b052-5002-40cf-98d0-2365c12bb225)
 ![4](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/9c233de7-b3ea-48ea-b2c5-da53953e1fb3)
 
-
-
 ## 📥 Apps's video preview:
 Donwload video:
 (Mediafire): https://www.mediafire.com/file/ar4wv7we4m3ty4m/Travel_app_demo_%25282%2529.mp4/file
