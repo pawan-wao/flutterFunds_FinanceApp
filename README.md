@@ -36,7 +36,6 @@ Google Drive Link (Size: 20 MB):
 (Google Drive): https://drive.google.com/file/d/1sqx1GlaFrZufzgV1D3ie5c4Whne-2pEU/view?usp=sharing
 
 ## Installation
-
 1. Clone the repository
 
 ```bash
