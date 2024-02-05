@@ -15,7 +15,6 @@
 **Firebase:** Leveraged for user authentication, including signup, signin, and password reset functionalities.
 
 **Android Studio:** The official IDE for Android development.
-
 ## 📥 App's Images:
 ![5](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/958e537a-24d5-4dd9-9592-2f24e042955c)
 ![3](https://github.com/pawan-wao/DhiWise_FlutterTask/assets/119276655/9124c039-4437-4335-be2c-f92cf1ae6b0c)
