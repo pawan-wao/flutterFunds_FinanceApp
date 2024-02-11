@@ -10,7 +10,6 @@
 - Contribution History
   
 ## Tech Stack
-
 **Flutter:** Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 **Firebase:** Leveraged for user authentication, including signup, signin, and password reset functionalities.
 
