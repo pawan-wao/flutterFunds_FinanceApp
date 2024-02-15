@@ -3,7 +3,6 @@
 ##  About flutterFunds
 
 "Track and achieve your financial goals with our intuitive app! Visualize progress, dive into goal details, and review your contribution history seamlessly. Built with Flutter for cross-platform efficiency, Firebase ensures secure user authentication. Take control of your financial journey with our powerful and user-friendly application."
-
 # App's Main Features
 - Goal Progress Visualization
 - Goal Details
